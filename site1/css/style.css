@@ -1,0 +1,9 @@
+footer
+{
+    background-color: aquamarine;
+    color:black;
+    height: 10vh;
+    width: 100vw;
+    bottom:0;
+    position:"relative";
+}

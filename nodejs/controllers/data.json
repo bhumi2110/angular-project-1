@@ -1,0 +1,9 @@
+{
+    "products":[
+        {"id":1,"name":"bingo"},
+        {"id":2,"name":"sunfest"},
+        {"id":3,"name":"sunfest2"},
+        {"id":4,"name":"gudday"}
+        
+    ]  
+}

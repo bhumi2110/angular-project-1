@@ -1,0 +1,48 @@
+{
+  "stocks": [
+    {
+      "id": "1",
+      "company": "companyname",
+      "ipvalue": 1,
+      "facevalue": 1
+    },
+    {
+      "id": "1234",
+      "company": "dfdlfkij",
+      "ipvalue": "88",
+      "facevalue": "877"
+    }
+  ],
+  "users": [
+    {
+      "email": "bhumi@gmail.com",
+      "password": "bhumi",
+      "contactnumber": "7207292030",
+      "id": "2b08"
+    },
+    {
+      "id": "71df",
+      "email": "",
+      "password": "",
+      "contactno": ""
+    },
+    {
+      "id": "f87f",
+      "email": "bhumika@gmail.com",
+      "password": "bhumika",
+      "contactno": "1234567890"
+    },
+    {
+      "id": "3a1e",
+      "email": "bhumika1@gmail.com",
+      "password": "bhumika1",
+      "contactno": "1234567890"
+    },
+    {
+      "id": "e362",
+      "email": "bhumika1@gmail.com",
+      "password": "bhumika1",
+      "contactno": "1234567890"
+    }
+  ]
+}

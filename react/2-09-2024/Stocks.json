@@ -1,0 +1,10 @@
+{
+    "Stocks": [
+        {
+            "id": "1",
+            "name": "biryani",
+            "price": "120"
+        }
+        
+    ]
+}

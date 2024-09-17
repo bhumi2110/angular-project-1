@@ -1,0 +1,3 @@
+{
+"Stocks"=[{"id":"0","company":"","initialPrice":"0","facevalue":"0"}]
+}
